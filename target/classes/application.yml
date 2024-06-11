@@ -29,3 +29,17 @@ spring:
   web:
     resources:
       add-mappings: true
+
+#Mail sender
+mail:
+  host: "smtp.gmail.com"
+  port: 587
+  username: "angelov.estates@gmail.com"
+  password: "fhjp raje pnsm zyal"
+
+#Cloudinary
+cloudinary:
+  cloudName: "dyfbmcq8q"
+  apiKey: "727437445487986"
+  apiSecret: "MfIa3impmr3bVDmAWU1J05rEuzc"
+
